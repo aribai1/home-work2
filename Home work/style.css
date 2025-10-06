@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&display=swap');
+.main{
+    background-color: black;
+}
+.section h1{
+    color: yellow;
+    font-family: Noto sans,sans-serif;
+}
+.section h3{
+    color: white;
+    font-family: Noto sans,sans-serif;
+    padding: 0 0 0 75px;
+}
+.section p{
+    color: whitesmoke;
+    font-family: Noto sans,sans-serif;
+    font-size: 15px;
+}
+.section button{
+    background-color: green;
+    color: white;
+    border: none;
+    width: 75px;
+    height: 25px;
+}
